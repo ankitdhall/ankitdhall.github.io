@@ -33,6 +33,12 @@ a:visited { color: #205caa; }
   margin: 0 auto;
   zoom: 1;
 }
+.publications:before {
+  max-width: 1000px;
+}
+.publications {
+  max-width: 1000px;
+}
 
 
 /* Layout Styles */
