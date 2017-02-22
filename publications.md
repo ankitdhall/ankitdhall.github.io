@@ -22,7 +22,7 @@ permalink: /publications/
 *State Estimation and Terrain Perception for All Terrain Mobile Robots Workshop at IROS, 2016*  
 
 \* equal contribution  
-<a href="javascript:void(0);" onclick="myFunction('iros16')">abstract</a> | [pdf](/assets/papers/CMoDE_iros16.pdf) | [project page + web demo](https://deepscene.cs.uni-freiburg.de)  
+<a href="javascript:void(0);" onclick="myFunction('iros16')">abstract</a> | [pdf](/assets/papers/CMoDE_iros16.pdf) | [project page + web demo](https://deepscene.cs.uni-freiburg.de)
 <div id="iros16" style="display:none; float: right; text-align:justify;min-width:350px;padding-left:1%;padding-right:1%;">
     In this paper, we propose Convoluted Mixture of Deep Experts (CMoDE) model that enables a multi-stream deep neural network architecture to learn features from complementary modalities and spectra that are resilient to commonly observed environmental disturbances. Some of these disturbances include shadows, snow, rain and glare which vary depending with season and time of the day. Our model first adaptively weighs features from each of the individual experts and then further learns fused representations that are robust to these disturbances. We comprehensively evaluate the CMoDE model against several other existing fusion approaches and show that our proposed model exceeds the state-of-the-art.
 </div>
