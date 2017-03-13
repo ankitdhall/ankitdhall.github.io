@@ -23,7 +23,7 @@ permalink: /publications/
 
 \* equal contribution  
 <a href="javascript:void(0);" onclick="myFunction('iros16')">abstract</a> | [pdf](/assets/papers/CMoDE_iros16.pdf) | [project page + web demo](https://deepscene.cs.uni-freiburg.de)
-<div id="iros16" style="display:none; float: right; text-align:justify;min-width:350px;padding-left:1%;padding-right:1%;">
+<div id="iros16" style="display:none; text-align:justify;min-width:350px;padding-left:1%;padding-right:1%;">
     In this paper, we propose Convoluted Mixture of Deep Experts (CMoDE) model that enables a multi-stream deep neural network architecture to learn features from complementary modalities and spectra that are resilient to commonly observed environmental disturbances. Some of these disturbances include shadows, snow, rain and glare which vary depending with season and time of the day. Our model first adaptively weighs features from each of the individual experts and then further learns fused representations that are robust to these disturbances. We comprehensively evaluate the CMoDE model against several other existing fusion approaches and show that our proposed model exceeds the state-of-the-art.
 </div>
 <br><br><br><br><br>
@@ -34,7 +34,7 @@ permalink: /publications/
 *Work-in-Progress at HCOMP, 2015*  
 
 <a href="javascript:void(0);" onclick="myFunction('hcomp15')">abstract</a> | [pdf](/assets/papers/humanMachine_hcomp15.pdf) | [arXiv](https://arxiv.org/abs/1509.07543)  
-<div id="hcomp15" style="display:none; float: right; text-align:justify;min-width:350px;padding-left:1%;padding-right:1%;">
+<div id="hcomp15" style="display:none; text-align:justify;min-width:350px;padding-left:1%;padding-right:1%;">
     When crowdsourcing systems are used in combination with machine inference systems in the real world, they benefit the most when the machine system is deeply integrated with the crowd workers. However, if researchers wish to integrate the crowd with "off-the-shelf" machine classifiers, this deep integration is not always possible. This work explores two strategies to increase accuracy and decrease cost under this setting. First, we show that reordering tasks presented to the human can create a significant accuracy improvement. Further, we show that greedily choosing parameters to maximize machine accuracy is sub-optimal, and joint optimization of the combined system improves performance.
 </div>
 <br><br><br><br><br>

@@ -12,4 +12,6 @@ In the summer of 2016, I spent time as a research intern at [Prof. Wolfram Burga
 
 I am currently a research intern at [IIIT-Hyderabad](https://www.iiit.ac.in/) at [Prof. Madhava Krishna's](http://faculty.iiit.ac.in/~mkrishna/index.html) [Robotics Research Center (RRC)](http://robotics.iiit.ac.in/).
 
+You can read more about these projects on my [research page](/publications/). Here is my [resume](/assets/AnkitDhall_resume.pdf).
+
 
