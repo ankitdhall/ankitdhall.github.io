@@ -3,6 +3,19 @@ layout: page_pubs
 title: Publications
 permalink: /publications/
 ---
+<div>
+<img src="/assets/publications_img/lidar_camera_calibration.jpg" style="float: left;padding-right:1%;min-width:350px;" width="48%"></div>
+### __LiDAR-Camera Calibration using 3D-3D Point correspondences__
+__Ankit Dhall__, Kunal Chelani, Vishnu Radhakrishnan, [K.M. Krishna](http://faculty.iiit.ac.in/~mkrishna/index.html)  
+*arXiv pre-print*  
+
+<a href="javascript:void(0);" onclick="myFunction('lcc')">abstract</a> | [arXiv](https://arxiv.org/abs/1705.09785) | [ROS package](http://wiki.ros.org/lidar_camera_calibration) | [github project page](https://github.com/ankitdhall/lidar_camera_calibration) | videos [[1]](https://youtu.be/SiPGPwNKE-Q "Tutorial on how to use the lidar_camera_calibration ROS package") [[2]](https://youtu.be/Om1SFPAZ5Lc "Fused point cloud with two stereo cameras kept at ~80 degrees") [[3]](https://youtu.be/AbjRDtHLdz0 "Fusing point clouds using manual measurement vs. lidar_camera_calibration")
+<div id="lcc" style="display:none; text-align:justify;min-width:350px;padding-left:1%;padding-right:1%;">
+    With the advent of autonomous vehicles, LiDAR and cameras have become an indispensable combination of sensors. They both provide rich and complementary data which can be used by various algorithms and machine learning to sense and make vital inferences about the surroundings. We propose a novel pipeline and experimental setup to find accurate rigid-body transformation for extrinsically calibrating a LiDAR and a camera. The pipeling uses 3D-3D point correspondences in LiDAR and camera frame and gives a closed form solution. We further show the accuracy of the estimate by fusing point clouds from two stereo cameras which align perfectly with the rotation and translation estimated by our method, confirming the accuracy of our method's estimates both mathematically and visually. Taking our idea of extrinsic LiDAR-camera calibration forward, we demonstrate how two cameras with no overlapping field-of-view can also be calibrated extrinsically using 3D point correspondences. The code has been made available as open-source software in the form of a ROS package.
+</div>
+<br><br><br><br><br>
+
+
 <br>
 <div>
 <img src="/assets/publications_img/icra17_adapnet1.gif" style="float: left;padding-right:1%;min-width:350px;" width="48%"></div>
