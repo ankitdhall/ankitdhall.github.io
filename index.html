@@ -72,7 +72,11 @@
         <p align="center">
           <name>Ankit Dhall</name>
         </p>
-        <p align="justify">I am a graduate student at <a href="https://www.ethz.ch/" target="_blank">ETH-Zurich</a> studying Robotics and am particularly interested in exploring research areas at the intersection of Computer Vision and Machine Learning. I work as a research intern at <a href="https://www.nutonomy.com/" target="_blank">nuTonomy</a> working on safety-critical perception for autonomous driving. 
+        <p align="justify">Graduate student at <a href="https://www.ethz.ch/" target="_blank">ETH-Zurich</a> particularly interested in exploring research areas at the intersection of Computer Vision and Machine Learning.
+        <br><br>
+        I am working on my Master thesis at <a href="https://las.inf.ethz.ch/krausea" target="_blank">Prof. Andreas Krause's</a> group, <a href="https://las.inf.ethz.ch/" target="_blank">Learning & Adaptive Systems</a> on learning representations for images with hierarchical labels under the supervision of <a href="https://las.inf.ethz.ch/people/anastasia-makarova" target="_blank">Anastasia Makarova</a> and <a href="http://people.inf.ethz.ch/ganeao/" target="_blank">Octavian Eugen-Ganea</a>.
+        <br><br>
+        I recently worked as a research intern at <a href="https://www.nutonomy.com/" target="_blank">nuTonomy</a>, Singapore working on safety-critical perception for autonomous driving. 
         <br><br>
         Currently, I am the Head of Perception at <a href="https://www.amzracing.ch/" target="_blank">Academic Motorsport Association of Zurich (AMZ)</a> for the Formula Student Driverless, Season 2019. In 2018, I contributed to the Computer Vision package at AMZ Racing for the Driverless competition. We were declared Champions at <a href="https://www.formula-ata.it/" target="_blank">Formula Student Italy</a> at Varano de Melegari and <a href="https://www.formulastudent.de/" target="_blank">Formula Student Germany</a> at Hockenheimring, the biggest student engineering competition in the world. <br><br> <a href="https://youtu.be/HegmIXASKow?t=11694" target="_blank"> Here's a video of "gotthard driverless" cruising autonomously at the Hockenheimring. </a>
         <br><br>
@@ -116,11 +120,35 @@
 
     <tr>
       <td width="25%">
+        <img src='/assets/publications_img/gotthard_pipeline.png'  style="min-width:250px;" width="48%">
+      </td>
+      <td valign="top" width="75%">
+        <p><a href="" target="_blank">
+        <papertitle><img src="/assets/new.png" height="15%" /> Real-time 3D Traffic Cone Detection for Autonomous Driving</papertitle></a><br>
+
+          <strong>Ankit Dhall</strong>, <a href="http://www.vision.ee.ethz.ch/~daid/" target="_blank">Dengxin Dai</a>, <a href="http://www.vision.ee.ethz.ch/en/members/get_member.cgi?lang=en&id=1" target="_blank">Luc Van Gool</a>
+          <br>
+
+        <em>To appear in IEEE Intelligent Vehicles (IV)</em>, Paris 2019 <br>
+        <p></p>
+        <a href="javascript:void(0);" onclick="myFunction('lcc')">abstract</a> |
+        <a href="http://people.ee.ethz.ch/~tracezuerich/TrafficCone/" target="_blank">project</a>
+        <p></p>
+
+        <div id="lcc" style="display:none; text-align:justify;min-width:350px;">
+            Considerable progress has been made in semantic scene understanding of road scenes with monocular cameras. It is, however, mainly focused on certain specific classes such as cars, bicyclists and pedestrians. This work investigates traffic cones, an object category crucial for traffic control in the context of autonomous vehicles. 3D object detection using images from a monocular camera is intrinsically an ill-posed problem. In this work, we exploit the unique structure of traffic cones and propose a pipelined approach to solve this problem. Specifically, we first detect cones in images by a modified 2D object detector. Following which the keypoints on a traffic cone are recognized with the help of our deep structural regression network, here, the fact that the cross-ratio is projection invariant is leveraged for network regularization. Finally, the 3D position of cones is recovered via the classical Perspective n-Point algorithm using correspondences obtained from the keypoint regression.
+            Extensive experiments show that our approach can accurately detect traffic cones and estimate their position in the 3D world in real time. The proposed method is also deployed on a real-time, autonomous system. It runs efficiently on the low-power Jetson TX2, providing accurate 3D position estimates, allowing a race-car to map and drive autonomously on an unseen track indicated by traffic cones. With the help of robust and accurate perception, our race-car won both Formula Student Competitions held in Italy and Germany in 2018, cruising at a top speed of 54 km/h on our driverless platform ``gotthard driverless''
+        </div>
+      </td>
+    </tr>
+
+    <tr>
+      <td width="25%">
         <img src='/assets/publications_img/lidar_cam_calib.gif'  style="min-width:250px;" width="48%">
       </td>
       <td valign="top" width="75%">
         <p><a href="https://arxiv.org/pdf/1705.09785" target="_blank">
-        <papertitle><img src="/assets/new.png" height="15%" /> LiDAR-Camera Calibration using 3D-3D Point correspondences</papertitle></a><br>
+        <papertitle> LiDAR-Camera Calibration using 3D-3D Point correspondences</papertitle></a><br>
 
           <strong>Ankit Dhall</strong>, Kunal Chelani, Vishnu Radhakrishnan, <a href="http://faculty.iiit.ac.in/~mkrishna/index.html" target="_blank">K.M. Krishna</a>
           <br>
