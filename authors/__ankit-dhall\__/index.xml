@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>__Ankit Dhall\*__ | Ankit Dhall</title>
+    <link>https://ankitdhall.github.io/authors/__ankit-dhall%5C__/</link>
+      <atom:link href="https://ankitdhall.github.io/authors/__ankit-dhall%5C__/index.xml" rel="self" type="application/rss+xml" />
+    <description>__Ankit Dhall\*__</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2020</copyright><lastBuildDate>Tue, 05 Apr 2016 23:41:00 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>__Ankit Dhall\*__</title>
+      <link>https://ankitdhall.github.io/authors/__ankit-dhall%5C__/</link>
+    </image>
+    
+    <item>
+      <title>Convoluted Mixture of Deep Experts for Robust Semantic Segmentation</title>
+      <link>https://ankitdhall.github.io/publication/cmode/</link>
+      <pubDate>Tue, 05 Apr 2016 23:41:00 +0200</pubDate>
+      <guid>https://ankitdhall.github.io/publication/cmode/</guid>
+      <description>&lt;p&gt;In this paper, we propose Convoluted Mixture of Deep Experts (CMoDE) model that enables a multi-stream deep neural network architecture to learn features from complementary modalities and spectra that are resilient to commonly observed environmental disturbances. Some of these disturbances include shadows, snow, rain and glare which vary depending with season and time of the day. Our model first adaptively weighs features from each of the individual experts and then further learns fused representations that are robust to these disturbances. We comprehensively evaluate the CMoDE model against several other existing fusion approaches and show that our proposed model exceeds the state-of-the-art.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

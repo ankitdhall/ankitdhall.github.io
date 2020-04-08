@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>camera | Ankit Dhall</title>
+    <link>https://ankitdhall.github.io/tags/camera/</link>
+      <atom:link href="https://ankitdhall.github.io/tags/camera/index.xml" rel="self" type="application/rss+xml" />
+    <description>camera</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2020</copyright><lastBuildDate>Sun, 05 Apr 2020 16:16:15 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>camera</title>
+      <link>https://ankitdhall.github.io/tags/camera/</link>
+    </image>
+    
+    <item>
+      <title>Lidar Camera Calibration</title>
+      <link>https://ankitdhall.github.io/project/lidar-camera-calibration/</link>
+      <pubDate>Sun, 05 Apr 2020 16:16:15 +0200</pubDate>
+      <guid>https://ankitdhall.github.io/project/lidar-camera-calibration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LiDAR-Camera Calibration using 3D-3D Point correspondences</title>
+      <link>https://ankitdhall.github.io/publication/lidar-camera-calibration/</link>
+      <pubDate>Fri, 05 May 2017 16:01:19 +0200</pubDate>
+      <guid>https://ankitdhall.github.io/publication/lidar-camera-calibration/</guid>
+      <description>&lt;p&gt;Usage Tutorials: &lt;a href=&#34;https://youtu.be/SiPGPwNKE-Q&#34; title=&#34;Tutorial on how to use the lidar_camera_calibration ROS package&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;fab fa-youtube fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/Om1SFPAZ5Lc&#34; title=&#34;Fused point cloud with two stereo cameras kept at ~80 degrees&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;fab fa-youtube fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/AbjRDtHLdz0&#34; title=&#34;Fusing point clouds using manual measurement vs. lidar_camera_calibration&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;fab fa-youtube fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://wiki.ros.org/lidar_camera_calibration&#34; target=&#34;_blank&#34;&gt;ROS package&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;span style=&#34;text-shadow: none;&#34;&gt;&lt;a class=&#34;github-button&#34; href=&#34;https://github.com/ankitdhall/lidar_camera_calibration&#34; data-icon=&#34;octicon-star&#34; data-size=&#34;large&#34; data-show-count=&#34;true&#34; aria-label=&#34;Star this on GitHub&#34;&gt;Star&lt;/a&gt;&lt;script async defer src=&#34;https://buttons.github.io/buttons.js&#34;&gt;&lt;/script&gt;&lt;/span&gt;
+&lt;span style=&#34;text-shadow: none;&#34;&gt;&lt;a class=&#34;github-button&#34; href=&#34;https://github.com/ankitdhall/lidar_camera_calibration/fork&#34; data-icon=&#34;octicon-repo-forked&#34; data-size=&#34;large&#34; data-show-count=&#34;true&#34; aria-label=&#34;Fork ankitdhall/lidar_camera_calibration on GitHub&#34;&gt;Fork&lt;/a&gt;&lt;script async defer src=&#34;https://buttons.github.io/buttons.js&#34;&gt;&lt;/script&gt;&lt;/span&gt;
+&lt;p&gt;&lt;/p&gt;
+With the advent of autonomous vehicles, LiDAR and cameras have become an indispensable combination of sensors. They both provide rich and complementary data which can be used by various algorithms and machine learning to sense and make vital inferences about the surroundings. We propose a novel pipeline and experimental setup to find accurate rigid-body transformation for extrinsically calibrating a LiDAR and a camera. The pipeling uses 3D-3D point correspondences in LiDAR and camera frame and gives a closed form solution. We further show the accuracy of the estimate by fusing point clouds from two stereo cameras which align perfectly with the rotation and translation estimated by our method, confirming the accuracy of our method&#39;s estimates both mathematically and visually. Taking our idea of extrinsic LiDAR-camera calibration forward, we demonstrate how two cameras with no overlapping field-of-view can also be calibrated extrinsically using 3D point correspondences. The code has been made available as open-source software in the form of a ROS package.
+![alt text](lidar_cam_calib.gif &#34;After sticting point clouds from wide-angled stereo using our lidar-camera-calibration ROS package&#34;)
+</description>
+    </item>
+    
+  </channel>
+</rss>

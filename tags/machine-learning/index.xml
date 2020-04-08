@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine learning | Ankit Dhall</title>
+    <link>https://ankitdhall.github.io/tags/machine-learning/</link>
+      <atom:link href="https://ankitdhall.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>machine learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2020</copyright><lastBuildDate>Wed, 08 Apr 2020 11:49:06 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>machine learning</title>
+      <link>https://ankitdhall.github.io/tags/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Hierarchical Image Classification Using Entailment Cone Embeddings</title>
+      <link>https://ankitdhall.github.io/publication/hierarchical-image-classification-using-entailment-cone-embeddings/</link>
+      <pubDate>Wed, 08 Apr 2020 11:49:06 +0200</pubDate>
+      <guid>https://ankitdhall.github.io/publication/hierarchical-image-classification-using-entailment-cone-embeddings/</guid>
+      <description>&lt;p&gt;Image classification has been studied extensively, but there has been limited work in using unconventional, external guidance other than traditional image-label pairs for training. We present a set of methods for leveraging information about the semantic hierarchy embedded in class labels. We first inject label-hierarchy knowledge into an arbitrary CNN-based classifier and empirically show that availability of such external semantic information in conjunction with the visual semantics from images boosts overall performance. Taking a step further in this direction, we model more explicitly the label-label and label-image interactions using order-preserving embeddings governed by both Euclidean and hyperbolic geometries, prevalent in natural language, and tailor them to hierarchical image classification and representation learning. We empirically validate all the models on the hierarchical ETHEC dataset.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robust Semantic Segmentation</title>
+      <link>https://ankitdhall.github.io/project/robust-semantic-segmentation/</link>
+      <pubDate>Wed, 08 Apr 2020 11:06:28 +0200</pubDate>
+      <guid>https://ankitdhall.github.io/project/robust-semantic-segmentation/</guid>
+      <description>&lt;p&gt;The work was done in collaboration at 
+&lt;a href=&#34;http://www2.informatik.uni-freiburg.de/~burgard&#34; title=&#34;Prof. Wolfram Burgard&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Wolfram Burgard&amp;rsquo;s&lt;/a&gt; 
+&lt;a href=&#34;http://ais.informatik.uni-freiburg.de/index_en.php&#34; title=&#34;AIS, Uni-Freiburg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Autonomous Intelligent Systems, University of Freiburg&lt;/a&gt; with 
+&lt;a href=&#34;http://www2.informatik.uni-freiburg.de/~valada/&#34; title=&#34;Abhinav Valada&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Abhinav Valada&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The project involves designing an innovative learnable mechanism to perform robust semantic segmentation in adverse conditions. The model learns how to dynamically weigh different modalities and trust them based on their quality resulting in improved segmentation. We also perform experiments on an autonomous car robot, Viona to drive in forested terrain based only on the perception input of the proposed CNN model.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;adapnet&#34;&gt;AdapNet&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;adapnet.gif&#34; alt=&#34;alt text&#34; title=&#34;Qualitative results under various adverse conditions like rain, nigth and fall scenarios from the dataset.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;icra17_adapnet1.gif&#34; alt=&#34;alt text&#34; title=&#34;AdapNet CNN architecture.&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;code-and-data&#34;&gt;Code and Data&lt;/h3&gt;
+&lt;p&gt;The code is available on 
+&lt;a href=&#34;https://github.com/DeepSceneSeg/AdapNet&#34; title=&#34;AdapNet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; and the multi-modal semantic segmentation image dataset used can be found 
+&lt;a href=&#34;http://deepscene.cs.uni-freiburg.de/#datasets&#34; title=&#34;Multi-modal semantic segmentation image dataset&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. The project demo can be found 
+&lt;a href=&#34;http://deepscene.cs.uni-freiburg.de/&#34; title=&#34;Deep-Scene&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;unimodal_vs_cmode.png&#34; alt=&#34;alt text&#34; title=&#34;Comparing performance of uni-modal input to multi-modal input. AdapNet learns better by fusing smartly information across modalities&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;videos-and-demos&#34;&gt;Videos and Demos&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=E6gij6IS8n0&#34; title=&#34;AdapNet: Adaptive Semantic Segmentation in Adverse Environmental Conditions&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; AdapNet: Adaptive Semantic Segmentation in Adverse Environmental Conditions&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=7teAwVMTCho&#34; title=&#34;Performance on Cityscapes dataset&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; Performance on Cityscapes dataset&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=cV-k0gkVfuY&#34; title=&#34;Off-road autonomous driving experiments&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; Off-road autonomous driving experiments&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;autonomous_exp.png&#34; alt=&#34;alt text&#34; title=&#34;Autonomous driving in off-road terrain in adverse conditions. Perception based solely on semantic segmentation output from CMoDE.&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;cmode&#34;&gt;CMoDE&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;qual-results.png&#34; alt=&#34;alt text&#34; title=&#34;Qualitative results with RGB and EVI/Depth as input and their corresponding weights that the CMoDE generates and uses based on image quality to produced improved semantic semgentation as compared to an agnostic model (LFC).&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;segmentation-video.gif&#34; alt=&#34;alt text&#34; title=&#34;Autonomous driving in off-road terrain in adverse conditions. Perception based solely on semantic segmentation output from CMoDE.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;qual_results2.png&#34; alt=&#34;alt text&#34; title=&#34;Qualitative results in different conditions.&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;code-and-data-1&#34;&gt;Code and Data&lt;/h3&gt;
+&lt;p&gt;The code is available on 
+&lt;a href=&#34;https://github.com/DeepSceneSeg/CMoDE&#34; title=&#34;CMoDE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; and the multi-modal semantic segmentation image dataset used can be found 
+&lt;a href=&#34;http://deepscene.cs.uni-freiburg.de/#datasets&#34; title=&#34;Multi-modal semantic segmentation image dataset&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. The official project page can be found 
+&lt;a href=&#34;http://deepscene.cs.uni-freiburg.de/&#34; title=&#34;Deep-Scene&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Representation Learning</title>
+      <link>https://ankitdhall.github.io/project/learning-representations-for-images-with-hierarchical-labels/</link>
+      <pubDate>Tue, 07 Apr 2020 18:31:49 +0200</pubDate>
+      <guid>https://ankitdhall.github.io/project/learning-representations-for-images-with-hierarchical-labels/</guid>
+      <description>&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://arxiv.org/abs/2004.00909&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learning Representations for Images With Hierarchical Labels&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://arxiv.org/abs/2004.03459&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hierarchical Image Classification Using Entailment Cone Embeddings&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;I worked on my Master thesis at 
+&lt;a href=&#34;https://las.inf.ethz.ch/krausea&#34; title=&#34;Andreas Krause&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andreas Krause&amp;rsquo;s&lt;/a&gt; 
+&lt;a href=&#34;https://las.inf.ethz.ch/&#34; title=&#34;Learning and Adaptive Systems Group, ETH Zurich&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learning and Adaptive Systems Group@ETH-Zurich&lt;/a&gt; supervised by 
+&lt;a href=&#34;https://las.inf.ethz.ch/people/anastasia-makarova&#34; title=&#34;Anastasia Makarova&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anastasia Makarova&lt;/a&gt;, 
+&lt;a href=&#34;http://people.inf.ethz.ch/ganeao/&#34; title=&#34;Octavian Eugen-Ganea&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Octavian Eugen-Ganea&lt;/a&gt; and 
+&lt;a href=&#34;http://da.inf.ethz.ch/people/DarioPavllo/&#34; title=&#34;Dario Pavllo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dario Pavllo&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;The project works on using external information in the form of leveraging hierarchy formed by labels to aid image classification. The work compares two different types of models: CNN-based models and Euclidean + non-Euclidean embedding-based models.&lt;/p&gt;
+&lt;h3 id=&#34;cnn-based-models&#34;&gt;CNN-based models&lt;/h3&gt;
+&lt;p&gt;Instead of proposing special modules, the CNN-based models exploit the hierarchy using loss functions that incorporate this hierarchical information in different degrees.&lt;/p&gt;
+&lt;h3 id=&#34;euclidean-and-non-euclidean-embeddings&#34;&gt;Euclidean and Non-Euclidean embeddings&lt;/h3&gt;
+&lt;p&gt;Euclidean and non-Euclidean embedding models are taken from natural language processing (NLP) where they are hugely prevalent. We propose to use these models for computer vision and images by learning representation in joint-embedding spaces for both concepts and images.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;ec_2d_labels.png&#34; alt=&#34;alt text&#34; title=&#34;ETHEC dataset&#39;s Euclidean Cone embeddings in 2D&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;predicting-taxonomy-for-organisms&#34;&gt;Predicting Taxonomy for Organisms&lt;/h3&gt;
+&lt;p&gt;One of the main applications of this work is to assist natural history collections, museums and organizations that preserve large numbers of historical and extant biodiversity specimens to digitize and organize their collections. Hobbyists create their personal collections most of which are eventually donated to public institutions. Before integration, these specimens need to be sorted taxonomically by specialists who have little time and are expensive. If this resource intensive task could be preceded by a pre-sorting procedure, for instance, where these specimens are categorized by unskilled labour based on their &lt;em&gt;family&lt;/em&gt;, &lt;em&gt;sub-family&lt;/em&gt;, &lt;em&gt;genus&lt;/em&gt;, and &lt;em&gt;species&lt;/em&gt; it would expedite and economize the process.&lt;/p&gt;
+&lt;p&gt;Thanks to the 
+&lt;a href=&#34;https://www.librarylab.ethz.ch/&#34; title=&#34;The ETH Library Lab&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The ETH Library Lab&lt;/a&gt; and Michael Greeff the research conducted on the thesis will be turned into classification app that can be used by hobbyists, collectors, and researchers alike to speed up and economize classification and segregation of entomological specimens.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning Representations for Images With Hierarchical Labels</title>
+      <link>https://ankitdhall.github.io/publication/learning-representations-for-images-with-hierarchical-labels/</link>
+      <pubDate>Tue, 07 Apr 2020 15:45:29 +0200</pubDate>
+      <guid>https://ankitdhall.github.io/publication/learning-representations-for-images-with-hierarchical-labels/</guid>
+      <description>&lt;p&gt;Image classification has been studied extensively but there has been limited work in the direction of using non-conventional, external guidance other than traditional image-label pairs to train such models. In this thesis we present a set of methods to leverage information about the semantic hierarchy induced by class labels. In the first part of the thesis, we inject label-hierarchy knowledge to an arbitrary classifier and empirically show that availability of such external semantic information in conjunction with the visual semantics from images boosts overall performance. Taking a step further in this direction, we model more explicitly the label-label and label-image interactions by using order-preserving embedding-based models, prevalent in natural language, and tailor them to the domain of computer vision to perform image classification. Although, contrasting in nature, both the CNN-classifiers injected with hierarchical information, and the embedding-based models outperform a hierarchy-agnostic model on the newly presented, real-world ETH Entomological Collection image dataset.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AMZ Driverless</title>
+      <link>https://ankitdhall.github.io/project/keypoint-network-amz/</link>
+      <pubDate>Mon, 06 Apr 2020 10:24:40 +0200</pubDate>
+      <guid>https://ankitdhall.github.io/project/keypoint-network-amz/</guid>
+      <description>&lt;h2 id=&#34;keypoint-network-for-monocular-pose-estimation&#34;&gt;Keypoint-Network for Monocular Pose Estimation&lt;/h2&gt;
+&lt;p&gt;The work was done in collaboration with 
+&lt;a href=&#34;https://vision.ee.ethz.ch/&#34; title=&#34;Computer Vision Lab, ETH Zurich&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVL@ETH-Zurich&lt;/a&gt; with 
+&lt;a href=&#34;http://www.vision.ee.ethz.ch/~daid/&#34; title=&#34;Dengxin Dai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dengxin Dai&lt;/a&gt; and 
+&lt;a href=&#34;https://scholar.google.ch/citations?user=TwMib_QAAAAJ&amp;amp;hl=en&amp;amp;oi=ao&#34; title=&#34;Prof. Luc van Gool&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Luc van Gool&lt;/a&gt;. The official project page can be found 
+&lt;a href=&#34;https://www.trace.ethz.ch/TrafficCone/&#34; title=&#34;Real-time 3D Traffic Cone Detection for Autonomous Driving&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;amz-driverlesshttpdriverlessamzracingch-amz-driverless-homepage&#34;&gt;
+&lt;a href=&#34;http://driverless.amzracing.ch/&#34; title=&#34;AMZ-Driverless&amp;#39; Homepage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AMZ-Driverless&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;I was officially involved in the 2018-2019 season as the Head of Perception with &lt;strong&gt;pilatus driverless&lt;/strong&gt;. The year before, I was worked on the computer vision pipeline, more specifically developed the monocular pipeline and the keypoint network.&lt;/p&gt;
+&lt;h2 id=&#34;involvement&#34;&gt;Involvement&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;pilatus driverless&lt;/strong&gt;: Head of Perception [2018-2019]&lt;br&gt;
+&lt;strong&gt;gotthard driverless&lt;/strong&gt;: Computer Vision [2017-2018]&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;driverless-cars-in-action&#34;&gt;Driverless cars in action&lt;/h2&gt;
+&lt;h3 id=&#34;pilatus-driverless-fs-germany-2019&#34;&gt;pilatus driverless @FS Germany 2019&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://youtu.be/OX8RSyF9mnw?list=PLtuNXpGOPQ_b5fejuHQrdE8PcW5kJ31F7&amp;amp;t=10079&#34; title=&#34;Acceleration&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Acceleration&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://youtu.be/gcnngFyWnFQ?list=PLtuNXpGOPQ_b5fejuHQrdE8PcW5kJ31F7&amp;amp;t=13068&#34; title=&#34;Trackdrive&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trackdrive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://youtu.be/sxqkt_ydOkY?list=PLtuNXpGOPQ_b5fejuHQrdE8PcW5kJ31F7&amp;amp;t=10749&#34; title=&#34;AutoX&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AutoX&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;gotthard-driverless-fs-germany-2018&#34;&gt;gotthard driverless @FS Germany 2018&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://youtu.be/HegmIXASKow?t=11694&#34; title=&#34;Trackdrive&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trackdrive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;acknowledgement&#34;&gt;Acknowledgement&lt;/h2&gt;
+&lt;p&gt;We would like to thank 
+&lt;a href=&#34;http://amzracing.ch/&#34; title=&#34;AMZ&amp;#39;s Homepage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AMZ Racing&lt;/a&gt;, especially the 
+&lt;a href=&#34;http://driverless.amzracing.ch/&#34; title=&#34;AMZ-Driverless&amp;#39; Homepage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Driverless&lt;/a&gt; team without whom this project would not have been possible. The work is also supported by Toyota Motor Europe via the project 
+&lt;a href=&#34;https://www.trace.ethz.ch/&#34; title=&#34;Trace-Zurich&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TRACE-Zurich&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Real-time 3D Traffic Cone Detection for Autonomous Driving</title>
+      <link>https://ankitdhall.github.io/publication/keypoint-network-amz/</link>
+      <pubDate>Wed, 06 Feb 2019 10:24:27 +0200</pubDate>
+      <guid>https://ankitdhall.github.io/publication/keypoint-network-amz/</guid>
+      <description>&lt;p&gt;Considerable progress has been made in semantic scene understanding of road scenes with monocular cameras. It is, however, mainly focused on certain specific classes such as cars, bicyclists and pedestrians. This work investigates traffic cones, an object category crucial for traffic control in the context of autonomous vehicles. 3D object detection using images from a monocular camera is intrinsically an ill-posed problem. In this work, we exploit the unique structure of traffic cones and propose a pipelined approach to solve this problem. Specifically, we first detect cones in images by a modified 2D object detector. Following which the keypoints on a traffic cone are recognized with the help of our deep structural regression network, here, the fact that the cross-ratio is projection invariant is leveraged for network regularization. Finally, the 3D position of cones is recovered via the classical Perspective n-Point algorithm using correspondences obtained from the keypoint regression. Extensive experiments show that our approach can accurately detect traffic cones and estimate their position in the 3D world in real time. The proposed method is also deployed on a real-time, autonomous system. It runs efficiently on the low-power Jetson TX2, providing accurate 3D position estimates, allowing a race-car to map and drive autonomously on an unseen track indicated by traffic cones. With the help of robust and accurate perception, our race-car won both Formula Student Competitions held in Italy and Germany in 2018, cruising at a top speed of 54 km/h on our driverless platform ``gotthard driverless&amp;rsquo;&amp;rsquo;
+&lt;img src=&#34;FSG19_Trackdrive_D.gif&#34; alt=&#34;alt text&#34; title=&#34;&amp;lt;&amp;lt;gotthard driverless&amp;gt;&amp;gt; on the Trackdrive at Formula Student Germany 2018&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Convoluted Mixture of Deep Experts for Robust Semantic Segmentation</title>
+      <link>https://ankitdhall.github.io/publication/cmode/</link>
+      <pubDate>Tue, 05 Apr 2016 23:41:00 +0200</pubDate>
+      <guid>https://ankitdhall.github.io/publication/cmode/</guid>
+      <description>&lt;p&gt;In this paper, we propose Convoluted Mixture of Deep Experts (CMoDE) model that enables a multi-stream deep neural network architecture to learn features from complementary modalities and spectra that are resilient to commonly observed environmental disturbances. Some of these disturbances include shadows, snow, rain and glare which vary depending with season and time of the day. Our model first adaptively weighs features from each of the individual experts and then further learns fused representations that are robust to these disturbances. We comprehensively evaluate the CMoDE model against several other existing fusion approaches and show that our proposed model exceeds the state-of-the-art.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | Ankit Dhall</title>
+    <link>https://ankitdhall.github.io/publication_types/7/</link>
+      <atom:link href="https://ankitdhall.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2020</copyright><lastBuildDate>Tue, 07 Apr 2020 15:45:29 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>7</title>
+      <link>https://ankitdhall.github.io/publication_types/7/</link>
+    </image>
+    
+    <item>
+      <title>Learning Representations for Images With Hierarchical Labels</title>
+      <link>https://ankitdhall.github.io/publication/learning-representations-for-images-with-hierarchical-labels/</link>
+      <pubDate>Tue, 07 Apr 2020 15:45:29 +0200</pubDate>
+      <guid>https://ankitdhall.github.io/publication/learning-representations-for-images-with-hierarchical-labels/</guid>
+      <description>&lt;p&gt;Image classification has been studied extensively but there has been limited work in the direction of using non-conventional, external guidance other than traditional image-label pairs to train such models. In this thesis we present a set of methods to leverage information about the semantic hierarchy induced by class labels. In the first part of the thesis, we inject label-hierarchy knowledge to an arbitrary classifier and empirically show that availability of such external semantic information in conjunction with the visual semantics from images boosts overall performance. Taking a step further in this direction, we model more explicitly the label-label and label-image interactions by using order-preserving embedding-based models, prevalent in natural language, and tailor them to the domain of computer vision to perform image classification. Although, contrasting in nature, both the CNN-classifiers injected with hierarchical information, and the embedding-based models outperform a hierarchy-agnostic model on the newly presented, real-world ETH Entomological Collection image dataset.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
