@@ -156,12 +156,30 @@
     </item>
     
     <item>
+      <title>AMZ Driverless: The Full Autonomous Racing System</title>
+      <link>https://ankitdhall.github.io/publication/amz-driverless-full-autonomous-racing/</link>
+      <pubDate>Wed, 08 May 2019 18:06:58 +0200</pubDate>
+      <guid>https://ankitdhall.github.io/publication/amz-driverless-full-autonomous-racing/</guid>
+      <description>&lt;p&gt;This paper presents the algorithms and system architecture of an autonomous racecar. The introduced vehicle is powered by a software stack designed for robustness, reliability, and extensibility. In order to autonomously race around a previously unknown track, the proposed solution combines state of the art techniques from different fields of robotics. Specifically, perception, estimation, and control are incorporated into one high-performance autonomous racecar. This complex robotic system, developed by AMZ Driverless and ETH Zurich, finished 1st overall at each competition we attended: Formula Student Germany 2017, Formula Student Italy 2018 and Formula Student Germany 2018. We discuss the findings and learnings from these competitions and present an experimental evaluation of each module of our solution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Real-time 3D Traffic Cone Detection for Autonomous Driving</title>
       <link>https://ankitdhall.github.io/publication/keypoint-network-amz/</link>
       <pubDate>Wed, 06 Feb 2019 10:24:27 +0200</pubDate>
       <guid>https://ankitdhall.github.io/publication/keypoint-network-amz/</guid>
       <description>&lt;p&gt;Considerable progress has been made in semantic scene understanding of road scenes with monocular cameras. It is, however, mainly focused on certain specific classes such as cars, bicyclists and pedestrians. This work investigates traffic cones, an object category crucial for traffic control in the context of autonomous vehicles. 3D object detection using images from a monocular camera is intrinsically an ill-posed problem. In this work, we exploit the unique structure of traffic cones and propose a pipelined approach to solve this problem. Specifically, we first detect cones in images by a modified 2D object detector. Following which the keypoints on a traffic cone are recognized with the help of our deep structural regression network, here, the fact that the cross-ratio is projection invariant is leveraged for network regularization. Finally, the 3D position of cones is recovered via the classical Perspective n-Point algorithm using correspondences obtained from the keypoint regression. Extensive experiments show that our approach can accurately detect traffic cones and estimate their position in the 3D world in real time. The proposed method is also deployed on a real-time, autonomous system. It runs efficiently on the low-power Jetson TX2, providing accurate 3D position estimates, allowing a race-car to map and drive autonomously on an unseen track indicated by traffic cones. With the help of robust and accurate perception, our race-car won both Formula Student Competitions held in Italy and Germany in 2018, cruising at a top speed of 54 km/h on our driverless platform ``gotthard driverless&amp;rsquo;&amp;rsquo;
 &lt;img src=&#34;FSG19_Trackdrive_D.gif&#34; alt=&#34;alt text&#34; title=&#34;&amp;lt;&amp;lt;gotthard driverless&amp;gt;&amp;gt; on the Trackdrive at Formula Student Germany 2018&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Real-time 3D Pose Estimation with a Monocular Camera Using Deep Learning and Object Priors</title>
+      <link>https://ankitdhall.github.io/publication/real-time-3d-monocular-pose-estimation/</link>
+      <pubDate>Sat, 08 Sep 2018 18:07:26 +0200</pubDate>
+      <guid>https://ankitdhall.github.io/publication/real-time-3d-monocular-pose-estimation/</guid>
+      <description>&lt;p&gt;We propose a complete pipeline that allows object detection and simultaneously estimate the pose of these multiple object instances using just a single image. A novel &amp;ldquo;keypoint regression&amp;rdquo; scheme with a cross-ratio term is introduced that exploits prior information about the object&amp;rsquo;s shape and size to regress and find specific feature points. Further, a priori 3D information about the object is used to match 2D-3D correspondences and accurately estimate object positions up to a distance of 15m. A detailed discussion of the results and an in-depth analysis of the pipeline is presented. The pipeline runs efficiently on a low-powered Jetson TX2 and is deployed as part of the perception pipeline on a real-time autonomous vehicle cruising at a top speed of 54 km/hr.&lt;/p&gt;
 </description>
     </item>
     

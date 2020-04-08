@@ -21,5 +21,14 @@
 </description>
     </item>
     
+    <item>
+      <title>Real-time 3D Pose Estimation with a Monocular Camera Using Deep Learning and Object Priors</title>
+      <link>https://ankitdhall.github.io/publication/real-time-3d-monocular-pose-estimation/</link>
+      <pubDate>Sat, 08 Sep 2018 18:07:26 +0200</pubDate>
+      <guid>https://ankitdhall.github.io/publication/real-time-3d-monocular-pose-estimation/</guid>
+      <description>&lt;p&gt;We propose a complete pipeline that allows object detection and simultaneously estimate the pose of these multiple object instances using just a single image. A novel &amp;ldquo;keypoint regression&amp;rdquo; scheme with a cross-ratio term is introduced that exploits prior information about the object&amp;rsquo;s shape and size to regress and find specific feature points. Further, a priori 3D information about the object is used to match 2D-3D correspondences and accurately estimate object positions up to a distance of 15m. A detailed discussion of the results and an in-depth analysis of the pipeline is presented. The pipeline runs efficiently on a low-powered Jetson TX2 and is deployed as part of the perception pipeline on a real-time autonomous vehicle cruising at a top speed of 54 km/hr.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manish Prajapat | Ankit Dhall</title>
+    <link>https://ankitdhall.github.io/authors/manish-prajapat/</link>
+      <atom:link href="https://ankitdhall.github.io/authors/manish-prajapat/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manish Prajapat</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Ankit Dhall</copyright><lastBuildDate>Wed, 08 May 2019 18:06:58 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Manish Prajapat</title>
+      <link>https://ankitdhall.github.io/authors/manish-prajapat/</link>
+    </image>
+    
+    <item>
+      <title>AMZ Driverless: The Full Autonomous Racing System</title>
+      <link>https://ankitdhall.github.io/publication/amz-driverless-full-autonomous-racing/</link>
+      <pubDate>Wed, 08 May 2019 18:06:58 +0200</pubDate>
+      <guid>https://ankitdhall.github.io/publication/amz-driverless-full-autonomous-racing/</guid>
+      <description>&lt;p&gt;This paper presents the algorithms and system architecture of an autonomous racecar. The introduced vehicle is powered by a software stack designed for robustness, reliability, and extensibility. In order to autonomously race around a previously unknown track, the proposed solution combines state of the art techniques from different fields of robotics. Specifically, perception, estimation, and control are incorporated into one high-performance autonomous racecar. This complex robotic system, developed by AMZ Driverless and ETH Zurich, finished 1st overall at each competition we attended: Formula Student Germany 2017, Formula Student Italy 2018 and Formula Student Germany 2018. We discuss the findings and learnings from these competitions and present an experimental evaluation of each module of our solution.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
