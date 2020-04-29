@@ -5,12 +5,21 @@
     <link>https://ankitdhall.github.io/publication_types/1/</link>
       <atom:link href="https://ankitdhall.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Ankit Dhall</copyright><lastBuildDate>Wed, 06 Feb 2019 10:24:27 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Ankit Dhall</copyright><lastBuildDate>Wed, 08 Apr 2020 11:49:06 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>1</title>
       <link>https://ankitdhall.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Hierarchical Image Classification Using Entailment Cone Embeddings</title>
+      <link>https://ankitdhall.github.io/publication/hierarchical-image-classification-using-entailment-cone-embeddings/</link>
+      <pubDate>Wed, 08 Apr 2020 11:49:06 +0200</pubDate>
+      <guid>https://ankitdhall.github.io/publication/hierarchical-image-classification-using-entailment-cone-embeddings/</guid>
+      <description>&lt;p&gt;Image classification has been studied extensively, but there has been limited work in using unconventional, external guidance other than traditional image-label pairs for training. We present a set of methods for leveraging information about the semantic hierarchy embedded in class labels. We first inject label-hierarchy knowledge into an arbitrary CNN-based classifier and empirically show that availability of such external semantic information in conjunction with the visual semantics from images boosts overall performance. Taking a step further in this direction, we model more explicitly the label-label and label-image interactions using order-preserving embeddings governed by both Euclidean and hyperbolic geometries, prevalent in natural language, and tailor them to hierarchical image classification and representation learning. We empirically validate all the models on the hierarchical ETHEC dataset.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Real-time 3D Traffic Cone Detection for Autonomous Driving</title>
