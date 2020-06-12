@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Wilber | Ankit Dhall</title>
+    <link>https://ankitdhall.github.io/authors/michael-wilber/</link>
+      <atom:link href="https://ankitdhall.github.io/authors/michael-wilber/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael Wilber</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Ankit Dhall</copyright><lastBuildDate>Sun, 05 Apr 2015 23:48:26 +0200</lastBuildDate>
+    <image>
+      <url>https://ankitdhall.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Michael Wilber</title>
+      <link>https://ankitdhall.github.io/authors/michael-wilber/</link>
+    </image>
+    
+    <item>
+      <title>On Optimizing Human-Machine Task Assignments</title>
+      <link>https://ankitdhall.github.io/publication/optimizing-human-machine-task-assignment/</link>
+      <pubDate>Sun, 05 Apr 2015 23:48:26 +0200</pubDate>
+      <guid>https://ankitdhall.github.io/publication/optimizing-human-machine-task-assignment/</guid>
+      <description>&lt;p&gt;When crowdsourcing systems are used in combination with machine inference systems in the real world, they benefit the most when the machine system is deeply integrated with the crowd workers. However, if researchers wish to integrate the crowd with &amp;ldquo;off-the-shelf&amp;rdquo; machine classifiers, this deep integration is not always possible. This work explores two strategies to increase accuracy and decrease cost under this setting. First, we show that reordering tasks presented to the human can create a significant accuracy improvement. Further, we show that greedily choosing parameters to maximize machine accuracy is sub-optimal, and joint optimization of the combined system improves performance.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

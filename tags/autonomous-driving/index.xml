@@ -7,7 +7,7 @@
     <description>autonomous driving</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Ankit Dhall</copyright><lastBuildDate>Wed, 08 Apr 2020 11:06:28 +0200</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://ankitdhall.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>autonomous driving</title>
       <link>https://ankitdhall.github.io/tags/autonomous-driving/</link>
     </image>
@@ -61,12 +61,13 @@
 &lt;a href=&#34;https://vision.ee.ethz.ch/&#34; title=&#34;Computer Vision Lab, ETH Zurich&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVL@ETH-Zurich&lt;/a&gt; with 
 &lt;a href=&#34;http://www.vision.ee.ethz.ch/~daid/&#34; title=&#34;Dengxin Dai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dengxin Dai&lt;/a&gt; and 
 &lt;a href=&#34;https://scholar.google.ch/citations?user=TwMib_QAAAAJ&amp;amp;hl=en&amp;amp;oi=ao&#34; title=&#34;Prof. Luc van Gool&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Luc van Gool&lt;/a&gt;. The official project page can be found 
-&lt;a href=&#34;https://www.trace.ethz.ch/TrafficCone/&#34; title=&#34;Real-time 3D Traffic Cone Detection for Autonomous Driving&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.trace.ethz.ch/TrafficCone/&#34; title=&#34;Real-time 3D Traffic Cone Detection for Autonomous Driving&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;hr&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;amz-driverlesshttpdriverlessamzracingch-amz-driverless-homepage&#34;&gt;
 &lt;a href=&#34;http://driverless.amzracing.ch/&#34; title=&#34;AMZ-Driverless&amp;#39; Homepage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AMZ-Driverless&lt;/a&gt;&lt;/h1&gt;
 &lt;p&gt;I was officially involved in the 2018-2019 season as the Head of Perception with &lt;strong&gt;pilatus driverless&lt;/strong&gt;. The year before, I was worked on the computer vision pipeline, more specifically developed the monocular pipeline and the keypoint network.&lt;/p&gt;
+&lt;p&gt;In 2018 we were declared Champions at &lt;a href=&#34;https://www.formula-ata.it/&#34; target=&#34;_blank&#34;&gt;Formula Student Italy&lt;/a&gt; and &lt;a href=&#34;https://www.formulastudent.de/&#34; target=&#34;_blank&#34;&gt;Formula Student Germany&lt;/a&gt; and in 2019 at &lt;a href=&#34;https://fseast.eu/&#34; target=&#34;_blank&#34;&gt;Formula Student East&lt;/a&gt; and Formula Student Germany.&lt;a href=&#34;https://youtu.be/HegmIXASKow?t=11694&#34; target=&#34;_blank&#34;&gt; Here&amp;rsquo;s a video of &amp;ldquo;gotthard driverless&amp;rdquo; cruising autonomously at the Hockenheimring from FSG&#39;18. &lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;involvement&#34;&gt;Involvement&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;pilatus driverless&lt;/strong&gt;: Head of Perception [2018-2019]&lt;br&gt;
 &lt;strong&gt;gotthard driverless&lt;/strong&gt;: Computer Vision [2017-2018]&lt;/p&gt;

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Johan Vertens | Ankit Dhall</title>
+    <link>https://ankitdhall.github.io/authors/johan-vertens/</link>
+      <atom:link href="https://ankitdhall.github.io/authors/johan-vertens/index.xml" rel="self" type="application/rss+xml" />
+    <description>Johan Vertens</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Ankit Dhall</copyright><lastBuildDate>Wed, 05 Apr 2017 23:25:48 +0200</lastBuildDate>
+    <image>
+      <url>https://ankitdhall.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Johan Vertens</title>
+      <link>https://ankitdhall.github.io/authors/johan-vertens/</link>
+    </image>
+    
+    <item>
+      <title>AdapNet: Adaptive Semantic Segmentation in Adverse Environmental Conditions</title>
+      <link>https://ankitdhall.github.io/publication/adapnet/</link>
+      <pubDate>Wed, 05 Apr 2017 23:25:48 +0200</pubDate>
+      <guid>https://ankitdhall.github.io/publication/adapnet/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://deepscene.cs.uni-freiburg.de/&#34; target=&#34;_blank&#34;&gt;project page + web demo&lt;/a&gt; |
+videos &lt;a href=&#34;https://www.youtube.com/watch?v=E6gij6IS8n0&#34; title=&#34;AdapNet: Adaptive Semantic Segmentation in Adverse Environmental Conditions&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=7teAwVMTCho&#34; title=&#34;cityscapes demo&#34; target=&#34;_blank&#34;&gt;[2]&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=cV-k0gkVfuY&#34; title=&#34;autonomous navigation experiments&#34; target=&#34;_blank&#34;&gt;[3]&lt;/a&gt; &lt;p&gt;&lt;/p&gt;
+Robust scene understanding of outdoor environments using passive optical sensors is an onerous and essential task for autonomous navigation. The problem is heavily characterized by changing environmental conditions throughout the day and across seasons. Robots should be equipped with models that are impervious to these factors in order to be operable and more importantly to ensure safety in the real-world. In this paper, we propose a novel semantic segmentation architecture and the convoluted mixture of deep experts (CMoDE) fusion technique that enables a multi-stream deep neural network to learn features from complementary modalities and spectra, each of which are specialized in a subset of the input space. We present results from experimentation on three publicly available datasets that contain diverse conditions including rain, summer, winter, dusk, fall, night and sunset, and show that our approach exceeds the state-of-the-art. In addition, we evaluate the performance of autonomously traversing several kilometers of a forested environment (see the video links for more info) using only the segmentation for perception.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
