@@ -1,440 +1,264 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://ankitdhall.github.io/publication_types/1/</loc>
     <lastmod>2020-04-08T11:49:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/anastasia-makarova/</loc>
     <lastmod>2020-04-08T11:49:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/andreas-krause/</loc>
     <lastmod>2020-04-08T11:49:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/ankit-dhall/</loc>
     <lastmod>2020-04-08T11:49:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/</loc>
     <lastmod>2020-04-08T11:49:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/</loc>
     <lastmod>2020-04-08T11:49:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/tags/computer-vision/</loc>
     <lastmod>2020-04-08T11:49:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/dario-pavllo/</loc>
     <lastmod>2020-04-08T11:49:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/tags/dataset/</loc>
     <lastmod>2020-04-08T11:49:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/tags/deep-learning/</loc>
     <lastmod>2020-04-08T11:49:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/tags/geometry/</loc>
     <lastmod>2020-04-08T11:49:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/publication/hierarchical-image-classification-using-entailment-cone-embeddings/</loc>
     <lastmod>2020-04-08T11:49:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/tags/machine-learning/</loc>
     <lastmod>2020-04-08T11:49:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/michael-greeff/</loc>
     <lastmod>2020-04-08T11:49:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/octavian-ganea/</loc>
     <lastmod>2020-04-08T11:49:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/publication_types/</loc>
     <lastmod>2020-04-08T11:49:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/publication/</loc>
     <lastmod>2020-04-08T11:49:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/tags/riemannian-methods-for-cv/</loc>
     <lastmod>2020-04-08T11:49:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/tags/</loc>
     <lastmod>2020-04-08T11:49:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/tags/thesis/</loc>
     <lastmod>2020-04-08T11:49:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/tags/autonomous-driving/</loc>
     <lastmod>2020-04-08T11:06:28+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/tags/code/</loc>
     <lastmod>2020-04-08T11:06:28+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/project/</loc>
     <lastmod>2020-04-08T11:06:28+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/tags/robotics/</loc>
     <lastmod>2020-04-08T11:06:28+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/project/robust-semantic-segmentation/</loc>
     <lastmod>2020-04-08T11:06:28+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/tags/ros/</loc>
     <lastmod>2020-04-08T11:06:28+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/tags/semantic-segmentation/</loc>
     <lastmod>2020-04-08T11:06:28+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/project/learning-representations-for-images-with-hierarchical-labels/</loc>
     <lastmod>2020-04-07T18:31:49+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/publication_types/7/</loc>
     <lastmod>2020-04-07T15:45:29+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/publication/learning-representations-for-images-with-hierarchical-labels/</loc>
     <lastmod>2020-04-07T15:45:29+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/project/keypoint-network-amz/</loc>
     <lastmod>2020-04-06T10:24:40+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/tags/depth-estimation/</loc>
     <lastmod>2020-04-06T10:24:40+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/tags/calibration/</loc>
     <lastmod>2020-04-05T16:16:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/tags/camera/</loc>
     <lastmod>2020-04-05T16:16:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/tags/lidar/</loc>
     <lastmod>2020-04-05T16:16:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/project/lidar-camera-calibration/</loc>
     <lastmod>2020-04-05T16:16:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/tags/perception/</loc>
     <lastmod>2020-04-05T16:16:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/tags/tools/</loc>
     <lastmod>2020-04-05T16:16:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/publication_types/3/</loc>
     <lastmod>2019-05-08T18:06:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/abel-gawel/</loc>
     <lastmod>2019-05-08T18:06:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/alexander-liniger/</loc>
     <lastmod>2019-05-08T18:06:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/publication/amz-driverless-full-autonomous-racing/</loc>
     <lastmod>2019-05-08T18:06:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/andreas-buhler/</loc>
     <lastmod>2019-05-08T18:06:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/claas-ehmke/</loc>
     <lastmod>2019-05-08T18:06:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/eugenio-chisari/</loc>
     <lastmod>2019-05-08T18:06:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/hubertus-fc-hendrikx/</loc>
     <lastmod>2019-05-08T18:06:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/inkyu-sa/</loc>
     <lastmod>2019-05-08T18:06:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/john-lygeros/</loc>
     <lastmod>2019-05-08T18:06:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/juraj-kabzan/</loc>
     <lastmod>2019-05-08T18:06:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/manish-prajapat/</loc>
     <lastmod>2019-05-08T18:06:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/manuel-dangel/</loc>
     <lastmod>2019-05-08T18:06:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/mark-pfeiffer/</loc>
     <lastmod>2019-05-08T18:06:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/mehak-gupta/</loc>
     <lastmod>2019-05-08T18:06:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/miguel-de-la-iglesia-valls/</loc>
     <lastmod>2019-05-08T18:06:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/napat-karnchanachari/</loc>
     <lastmod>2019-05-08T18:06:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/nikhil-gosala/</loc>
     <lastmod>2019-05-08T18:06:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/ramya-sivanesan/</loc>
     <lastmod>2019-05-08T18:06:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/renaud-dube/</loc>
     <lastmod>2019-05-08T18:06:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/roland-siegwart/</loc>
     <lastmod>2019-05-08T18:06:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/sonja-brits/</loc>
     <lastmod>2019-05-08T18:06:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/victor-reijgwart/</loc>
     <lastmod>2019-05-08T18:06:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/dengxin-dai/</loc>
     <lastmod>2019-02-06T10:24:27+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/luc-van-gool/</loc>
     <lastmod>2019-02-06T10:24:27+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/publication/keypoint-network-amz/</loc>
     <lastmod>2019-02-06T10:24:27+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/publication/real-time-3d-monocular-pose-estimation/</loc>
     <lastmod>2018-09-08T18:07:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/k.m.-krishna/</loc>
     <lastmod>2017-05-05T16:01:19+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/kunal-chelani/</loc>
     <lastmod>2017-05-05T16:01:19+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/publication/lidar-camera-calibration/</loc>
     <lastmod>2017-05-05T16:01:19+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/vishnu-radhakrishnan/</loc>
     <lastmod>2017-05-05T16:01:19+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/abhinav-valada/</loc>
     <lastmod>2017-04-05T23:25:48+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/publication/adapnet/</loc>
     <lastmod>2017-04-05T23:25:48+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/johan-vertens/</loc>
     <lastmod>2017-04-05T23:25:48+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/wolfram-burgard/</loc>
     <lastmod>2017-04-05T23:25:48+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/publication/cmode/</loc>
     <lastmod>2016-04-05T23:41:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/andreas-veit/</loc>
     <lastmod>2015-04-05T23:48:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/tags/crowdsourcing/</loc>
     <lastmod>2015-04-05T23:48:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/tags/crowdworking/</loc>
     <lastmod>2015-04-05T23:48:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/tags/hci/</loc>
     <lastmod>2015-04-05T23:48:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/james-davis/</loc>
     <lastmod>2015-04-05T23:48:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/michael-wilber/</loc>
     <lastmod>2015-04-05T23:48:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/publication/optimizing-human-machine-task-assignment/</loc>
     <lastmod>2015-04-05T23:48:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/rajan-vaish/</loc>
     <lastmod>2015-04-05T23:48:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/serge-belongie/</loc>
     <lastmod>2015-04-05T23:48:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/authors/et-al./</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdhall.github.io/talk/</loc>
   </url>
-  
 </urlset>
